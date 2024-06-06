@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "997376757274",
+    "project_id": "doctoguidedoctorapp",
+    "storage_bucket": "doctoguidedoctorapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:997376757274:android:1a3294b9dc596626704ba3",
+        "android_client_info": {
+          "package_name": "com.example.docto_guide_doctor_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA0_4YGP_UNs5faumlsSZAQUYVRQ0CrBnQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
