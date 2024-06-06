@@ -1,0 +1,37 @@
+const String api_endpoint_item_get = "https://docto-guide-flask-hsb3.vercel.app/item.get"; 
+const String api_endpoint_item_upload = "https://docto-guide-flask-hsb3.vercel.app/item.upload";
+const String api_endpoint_dresses_get = "https://docto-guide-flask-hsb3.vercel.app/dresses.get";
+const String api_endpoint_pants_get = "https://docto-guide-flask-hsb3.vercel.app/pants.get";
+const String api_endpoint_shoes_get = "https://docto-guide-flask-hsb3.vercel.app/shoes.get";
+const String api_endpoint_tops_get = "https://docto-guide-flask-hsb3.vercel.app/tops.get";
+const String api_endpoint_search = "https://docto-guide-flask-hsb3.vercel.app/search";
+const String api_endpoint_filter = "https://docto-guide-flask-hsb3.vercel.app/filter";
+const String api_endpoint_types_get = "https://docto-guide-flask-hsb3.vercel.app/types.get";
+const String api_endpoint_wilayas_get = "https://docto-guide-flask-hsb3.vercel.app/wilayas.get";
+const String api_endpoint_communes_get = "https://docto-guide-flask-hsb3.vercel.app/communes.get";
+const String api_endpoint_user_sign= "https://docto-guide-flask-hsb3.vercel.app/user.signup";
+const String api_endpoint_user_login = "http://192.168.127.64:5000/users.login";
+const String api_endpoint_add_favorite_item = "https://docto-guide-flask-hsb3.vercel.app/favorite_item.add";
+const String api_endpoint_remove_favorite_item = "https://docto-guide-flask-hsb3.vercel.app/favorite_item.remove";
+const String api_endpoint_fetch_liked_item_status = "https://docto-guide-flask-hsb3.vercel.app/fetch_liked_item_status";
+const String api_endpoint_fetch_liked_items = "https://docto-guide-flask-hsb3.vercel.app/fetch_liked_items";
+const String api_endpoint_fetch_my_selling_items = "https://docto-guide-flask-hsb3.vercel.app/fetch_my_selling_items";
+const String api_endpoint_update_user_profile = "https://docto-guide-flask-hsb3.vercel.app/user.update_profile";
+const String api_endpoint_categories_get = "https://docto-guide-flask-hsb3.vercel.app/category.get";
+const String api_endpoint_update_item = "https://docto-guide-flask-hsb3.vercel.app/item.update";
+const String api_endpoint_get_followers_count = "https://docto-guide-flask-hsb3.vercel.app/get_followers_count";
+const String api_endpoint_get_following_count = "https://docto-guide-flask-hsb3.vercel.app/get_following_count";
+const String api_endpoint_follow_user = "https://docto-guide-flask-hsb3.vercel.app/follow_user";
+const String api_endpoint_unfollow_user = "https://docto-guide-flask-hsb3.vercel.app/unfollow_user";
+const String api_endpoint_check_follow_user = "https://docto-guide-flask-hsb3.vercel.app/check_follow_user";
+const String api_endpoint_selling_item_remove = "https://docto-guide-flask-hsb3.vercel.app/selling_item.remove";
+const String api_endpoint_get_doctors = "http://192.168.127.64:5000/getDoctors";
+const String api_endpoint_History1 = "http://192.168.127.64:5000/getHistoryByPatient1/";
+const String api_endpoint_History = "http://192.168.127.64:5000/getConsultationHistory/";
+const String api_request_doctor = "http://192.168.127.64:5000/requestConsultation";
+const String api_update_localization = "http://192.168.127.64:5000/update.patient.location";
+const String api_request_status = "http://192.168.127.64:5000/consultationStatus";
+const String api_Find_Doctor = "http://192.168.127.64:5000/find_doctor";
+const String api_gemeni_get_spacialist = "http://192.168.127.64:5000/get_specialist";
+
+/*https://docto-guide-flask-hsb3.vercel.app*/

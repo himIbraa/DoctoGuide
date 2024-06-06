@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "73421263120",
+    "project_id": "doctoguide-ae250",
+    "storage_bucket": "doctoguide-ae250.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:73421263120:android:8111ce331c69c4eeb91595",
+        "android_client_info": {
+          "package_name": "com.example.docto_guide"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBK3zjK2n8j-0-uAXynCJ3MSGKrOlNzkgI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
