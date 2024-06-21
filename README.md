@@ -2,7 +2,7 @@
 
 ## Video Overview
 
-[![Watch the video](https://github.com/himIbraa/DoctoGuide/raw/main/image.jpg)](https://drive.google.com/file/d/17mjNdhNYoJprNbMCIJKY5MY1-pJNMofy/view)
+[![Watch the video](https://github.com/himIbraa/DoctoGuide/raw/main/image.png)](https://drive.google.com/file/d/17mjNdhNYoJprNbMCIJKY5MY1-pJNMofy/view)
 
 
 
