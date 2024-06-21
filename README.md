@@ -2,7 +2,7 @@
 
 ## Video Overview
 
-[![Watch the video]](https://github.com/himIbraa/DoctoGuide/blob/main/lv_0_20240621232800.mp4)
+[![Watch the video]](https://drive.google.com/file/d/17mjNdhNYoJprNbMCIJKY5MY1-pJNMofy/view)
 
 ## Purpose
 
