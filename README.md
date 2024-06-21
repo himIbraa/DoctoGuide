@@ -1,5 +1,9 @@
 # DoctoGuide
 
+## Video Overview
+
+[![Watch the video]](https://github.com/himIbraa/DoctoGuide/blob/main/lv_0_20240621232800.mp4)
+
 ## Purpose
 
 DoctoGuide leverages AI for precise chat and image analysis to ensure each patient is matched with the right specialist, providing swift, accurate medical care. By connecting patients with a dedicated team of medical professionals, DoctoGuide offers immediate assistance and in-home visits.
